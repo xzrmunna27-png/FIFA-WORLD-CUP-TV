@@ -1,0 +1,6 @@
+{
+  "name": "Android TV Launcher",
+  "description": "An interactive, high-fidelity Android TV launcher demo with standard application grids, custom app icons, keyboard and virtual remote control navigation, and fluid UI animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
